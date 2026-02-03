@@ -244,7 +244,7 @@
     opacity: 0.9;
 }
 .action{
-    background: url(/images/ChatGPT\ Image\ Jan\ 26\,\ 2026\,\ 11_14_04\ AM.png);
+    background: url(/images/omar.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -447,7 +447,7 @@
   box-shadow: 0 15px 40px rgba(0,0,0,0.5);
 }
 .hero-room{
-    background: url(/images/pexels-maria-kray-737731035-18587954.jpg);
+    background: url(/images/door.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -671,7 +671,7 @@ margin: 20px;
 
 .contact-hero {
   height: 60vh;
-  background: url(/images/pexels-maria-kray-737731035-18587954.jpg) center/cover no-repeat;
+  background: url(/images/door.jpg) center/cover no-repeat;
   position: relative;
 }
 
